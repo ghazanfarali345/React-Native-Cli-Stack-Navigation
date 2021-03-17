@@ -1,0 +1,14 @@
+com/stacknavigationv5/ReactNativeFlipper.java
+ com.stacknavigationv5.ReactNativeFlipper
+ com.stacknavigationv5.ReactNativeFlipper$1
+ com.stacknavigationv5.ReactNativeFlipper$2
+ com.stacknavigationv5.ReactNativeFlipper$2$1
+com/stacknavigationv5/BuildConfig.java
+ com.stacknavigationv5.BuildConfig
+com/stacknavigationv5/MainApplication.java
+ com.stacknavigationv5.MainApplication
+ com.stacknavigationv5.MainApplication$1
+com/stacknavigationv5/MainActivity.java
+ com.stacknavigationv5.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
